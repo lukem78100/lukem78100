@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Specializations
+- Java
+- Python
+- MySQL/MongoDB/Redis
+- Backend web service development
+
 <!--
 **lukem78100/lukem78100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
