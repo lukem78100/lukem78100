@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Current projects
+You really thought I'd tell you?
+
+## Reach out:
+Email me: [Send Email](mailto:luke@dusthedge.com)
+
 ## Specializations
 - Java
 - Python
