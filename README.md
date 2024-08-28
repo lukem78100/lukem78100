@@ -9,6 +9,7 @@ Email me: [Send Email](mailto:luke@dusthedge.com)
 ## Specializations
 - Java
 - Python
+- C#
 - MySQL/MongoDB/Redis
 - Backend web service development
 
